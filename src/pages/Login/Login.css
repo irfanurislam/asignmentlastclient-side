@@ -1,0 +1,9 @@
+.toggle-password {
+    position: absolute;
+    top: 42%;
+    right: 2rem;
+    padding: 20px 20px;
+    transform: translateY(-50%);
+    cursor: pointer;
+  }
+  
